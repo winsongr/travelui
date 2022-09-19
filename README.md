@@ -1,16 +1,5 @@
-# travelui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# travelui with Rich UI
+![WhatsApp Image 2022-09-19 at 11 22 21 PM](https://user-images.githubusercontent.com/96694861/191082193-1ca897a1-30cf-4e10-8c9f-04b7c71782ec.jpeg)
+![WhatsApp Image 2022-09-19 at 11 22 24 PM](https://user-images.githubusercontent.com/96694861/191082207-67bdbd76-cbcf-474f-a67c-fb7ed962ee5c.jpeg)
+![WhatsApp Image 2022-09-19 at 11 22 21 PM (1)](https://user-images.githubusercontent.com/96694861/191082215-43a89160-6fbb-46a6-b4e5-7b13415b84fb.jpeg)
+![WhatsApp Image 2022-09-19 at 11 22 23 PM](https://user-images.githubusercontent.com/96694861/191082223-7885c13a-a161-41ec-a20f-97ea9a988bef.jpeg)
